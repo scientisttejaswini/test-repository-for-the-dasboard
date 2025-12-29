@@ -1,2 +1,3 @@
 # test-repository-for-the-dasboard
-copy duration
+just practice how to create a repository
+
